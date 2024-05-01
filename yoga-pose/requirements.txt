@@ -1,0 +1,8 @@
+pdf2image
+pdfminer
+unstructured
+pillow-heif
+opencv-python-headless
+pikepdf 
+pypdf
+google-generativeai
